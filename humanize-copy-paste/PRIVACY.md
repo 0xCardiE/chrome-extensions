@@ -55,4 +55,4 @@ We may update this policy from time to time. The **Last updated** date at the to
 
 For privacy questions about Humanize Copy/Paste, open an issue on this repository:
 
-https://github.com/0xCardiE/extension-privacy/issues
+https://github.com/0xCardiE/chrome-extensions/issues

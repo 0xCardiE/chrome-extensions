@@ -1,6 +1,6 @@
-# Extension Privacy Policies
+# Chrome Extensions
 
-Privacy policies for browser extensions by [0xCardiE](https://github.com/0xCardiE).
+Privacy policies and shared resources for Chrome extensions by [0xCardiE](https://github.com/0xCardiE).
 
 Each extension has its own folder with a `PRIVACY.md` file.
 
